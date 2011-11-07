@@ -1,0 +1,4 @@
+How to install:
+
+env CFLAGS="-std=c99" ARCHFLAGS="-arch i386 -arch x86_64" python3 setup.py build
+sudo env CFLAGS="-std=c99" ARCHFLAGS="-arch i386 -arch x86_64" python3 setup.py install

@@ -1,0 +1,9 @@
+This is an implementation of the following algorithm:
+
+Shiloach, Y.  Fast canonization of circular strings.  Journal of Algorithms 2,
+107-121 (1981).  URL http://dx.doi.org/10.1016/0196-6774(81)90013-4.
+
+Implemented in C by Eugene Scherba, 2/23/10 Laboratory for Biocomputing and
+Informatics at Boston University
+ 
+License: BSD
