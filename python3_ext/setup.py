@@ -14,5 +14,12 @@ setup(
         version="0.0.1",
         description="Module for working with cyclic strings",
         platforms = ["Linux", "Windows", "Mac OS X"],
-        long_description="cyclic_string is a module for working with cyclic strings. It implements Shiloach (1981) algorithm for fast canonization of circular strings. The resulting canonical form of the string is called a *minimal representation*. REFERENCES: Shiloach, Y. Fast canonization of circular strings. Journal of Algorithms 2, 107-121 (1981). http://dx.doi.org/10.1016/0196-6774(81)90013-4."
+        long_description="""\
+cyclic_string is a module for working with cyclic strings. It implements
+Shiloach (1981) algorithm for fast canonization of circular strings. The
+resulting canonical form of the string is called a *minimal representation*.
+REFERENCES: Shiloach, Y. Fast canonization of circular strings. Journal of
+Algorithms 2, 107-121 (1981). http://dx.doi.org/10.1016/0196-6774(81)90013-4.
+
+"""
     )
